@@ -23,3 +23,5 @@ This is a test with github pages
 
 #### Growth Mindset
 > A growth mindset means that you thrive on challenge and don't see failure as a way to describe yourself but as a springboard for growth and developing your abilities. Your intelligence and talents are all susceptible to growth.
+
+![this is the octocat](https://myoctocat.com/assets/images/base-octocat.svg)
