@@ -1,29 +1,32 @@
 # reading-notes
 
-### Liverpool code
+### Growth Mindset
 
 **document content**
 
-  1. Brief
-  2. about
-  3. growth
+  1. Description of Growth Mindset
+  2. How to stay in a Growth Mindset
+  3. Who Am I
 
-#### introduction
+#### Description of Growth Mindset
 
-Hi my name is Jeremy
+> A growth mindset means that you thrive on challenge, and see failure as a way for growth and developing your abilities. 
 
-My passion include:
 
-- Glider
-- Gym
-- Cocktails
+#### How to stay in a Growth Mindset
 
-#### about reading Notes Demo
-This is a test with github pages
+You can stay in a Growth Mindset by:
 
-#### Growth Mindset
-> A growth mindset means that you thrive on challenge and don't see failure as a way to describe yourself but as a springboard for growth and developing your abilities. Your intelligence and talents are all susceptible to growth.
+- Putting in the efforts
+  >It's about drive, it's about power
+    We stay hungry, we devour
+    Put in the work, put in the hours and take what's ours
+- Persist through failure
+- Getting inspired by the success of others
 
-![this is the octocat](https://myoctocat.com/assets/images/base-octocat.svg)
 
-my github is [here](https://github.com/Klnder)
+#### Who Am I
+I am Jeremy Merlin, actually a cocktail bartender, and my favourite cocktail is a Espresso martini.
+[espresso martini](https://images.absolutdrinks.com/drink-images/Raw/Absolut/2bc2bb4c-17d6-4a3c-9df2-4d22f8553d24.jpg?imwidth=500)
+
+you can find my github [here](https://github.com/Klnder)
